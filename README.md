@@ -26,7 +26,7 @@
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
 #### 🧪 Tools & Services
@@ -41,7 +41,7 @@
 
 ### 🔐 Specialized Skills
 
-- 🔁 RESTful API Development using Express & Mongoose  
+- 🔁 RESTful API Development using Express & MongoDB  
 - 💳 Payment Gateway Integration with Webhook Handling  
 - 🤖 Rapid AI-assisted Development using GitHub Copilot, Cursor, V0, etc.
 
