@@ -65,7 +65,7 @@
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/shashank-khatri-05a218291/)
 - 💡 [LeetCode](https://leetcode.com/u/AntimonyBullets/)
-- 📧 [Email Me](mailto:twopiear@gmail.com)
+- 📧 Email: [twopiear@gmail.com](mailto:twopiear@gmail.com)
 
 ---
 
