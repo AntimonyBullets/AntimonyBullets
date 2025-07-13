@@ -51,7 +51,9 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AntimonyBullets&show_icons=true&theme=radical" />
   <br/>
+  <br/>
   <img src="https://streak-stats.demolab.com?user=AntimonyBullets&theme=gruvbox&hide_border=true" />
+  <br/>
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntimonyBullets&layout=compact&theme=tokyonight" />
 </p>
@@ -62,7 +64,7 @@
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/shashank-khatri-05a218291/)
 - 💡 [LeetCode](https://leetcode.com/u/AntimonyBullets/)
-- 📧 Email: _youremail@example.com_
+- 📧 Email: [twopiear@gmail.com](mailto:twopiear@gmail.com)
 
 ---
 
