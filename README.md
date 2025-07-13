@@ -2,11 +2,11 @@
 <h3 align="center">A passionate full-stack web developer from India 🇮🇳</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin-id" target="_blank">
+  <a href="https://www.linkedin.com/in/shashank-khatri-05a218291/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
-  <a href="https://leetcode.com/your-leetcode-username/" target="_blank">
+  <a href="https://leetcode.com/u/AntimonyBullets/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
   </a>
 </p>
@@ -34,6 +34,7 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" />
 </p>
 
 ---
@@ -60,11 +61,11 @@
 
 ---
 
-### 📫 Find Me Around the Web
+### 📚 Find Me Around the Web
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/shashank-khatri-05a218291/)
 - 💡 [LeetCode](https://leetcode.com/u/AntimonyBullets/)
-- 📧 Email: [twopiear@gmail.com](mailto:twopiear@gmail.com)
+- 📧 [Email Me](mailto:twopiear@gmail.com)
 
 ---
 
