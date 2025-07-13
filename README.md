@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/shashank-khatri-05a218291/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-<!--   &nbsp; -->
+  &nbsp;
   <a href="https://leetcode.com/u/AntimonyBullets/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
   </a>
