@@ -16,25 +16,25 @@
 ### 💻 Tech Stack
 
 #### 🧩 Frontend
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,redux" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,redux&perline=8" height="40" />
   </a>
 </p>
 
 #### ⚙️ Backend
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&perline=8" height="40" />
   </a>
 </p>
 
 #### 🧪 Tools & Services
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postman,cloudflare,git" />
+    <img src="https://skillicons.dev/icons?i=postman,cloudflare,git&perline=8" height="40" />
   </a>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/stripe/stripe-original.svg" width="48" height="48" alt="Stripe" style="vertical-align: middle;" />
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat&logo=stripe&logoColor=white" height="40" alt="Stripe" />
 </p>
 
 ---
