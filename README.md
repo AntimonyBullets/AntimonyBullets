@@ -161,7 +161,7 @@ A video and social platform backend built API-first.
 
 <div align="center">
 
-I'm open to **internships and open-source collaboration**. If you're building something with APIs, payments or AI, let's talk!
+I'm open to **internships and open-source collaboration**. If you're building something that requires engineering, let's talk!
 
 <a href="https://www.linkedin.com/in/shashank-khatri-05a218291/"><img src="https://img.shields.io/badge/Connect%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:twopiear@gmail.com"><img src="https://img.shields.io/badge/Email-twopiear@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
