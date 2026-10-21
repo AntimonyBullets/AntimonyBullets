@@ -55,7 +55,11 @@ Software Developer experienced in building web applications, developing APIs, an
 An AI-powered content creation workflow that streamlines content generation end to end.
 
 <!-- VIDEO DEMO: replace the URL on the next line with your uploaded video link, then delete this comment -->
-https://github.com/user-attachments/assets/REPLACE-WITH-YOUR-VIDEO-ID
+
+
+https://github.com/user-attachments/assets/f896d2aa-5a47-4366-a259-d48ce3172890
+
+
 
 - ✍️ **LLM APIs** for AI-generated content
 - 🎙️ Transcription services and 🎨 AI-powered image generation
