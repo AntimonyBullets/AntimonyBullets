@@ -1,7 +1,7 @@
 <!-- ═══════════════════════ HEADER ═══════════════════════ -->
 <div align="center">
 
-<img src="assets/header.svg" width="100%" alt="Shashank Khatri, Software Developer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F0000,50:C1121F,100:FF4D4D&height=220&section=header&text=Shashank%20Khatri&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer&descAlignY=58&descSize=20" width="100%" alt="header"/>
 
 <img src="https://komarev.com/ghpvc/?username=AntimonyBullets&label=Profile%20Views&color=C1121F&style=for-the-badge" alt="profile views"/>
 <img src="https://img.shields.io/badge/Based%20in-India%20🇮🇳-FF9933?style=for-the-badge" alt="India"/>
@@ -165,6 +165,6 @@ I'm open to **internships and open-source collaboration**. If you're building so
 
 <br/><br/>
 
-<img src="assets/footer.svg" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4D4D,50:C1121F,100:7F0000&height=120&section=footer" width="100%" alt="footer"/>
 
 </div>
